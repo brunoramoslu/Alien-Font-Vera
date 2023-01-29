@@ -71,7 +71,7 @@ This should install to your site_perl directory.
 
 ### FONT
 
-Vera font is provided using the [Bitstream license](share/License.txt) also present in this
+Vera font is provided using the [Bitstream License](share/License.txt) also present in this
 package.
 
 ### AUTHOR
