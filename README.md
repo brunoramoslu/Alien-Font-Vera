@@ -76,9 +76,9 @@ package.
 
 # ACKNOWLEDGEMENTS
 
-This module is based on
+This module is inspired by
 [Alien::Font::Uni](https://github.com/lichtkind/Alien-Font-Uni)
-by [Herbert Breunung ](https://github.com/lichtkind)
+fom [Herbert Breunung ](https://github.com/lichtkind)
 
 # COPYRIGHT
 

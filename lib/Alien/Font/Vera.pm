@@ -44,7 +44,7 @@ Bruno Ramos <bramos@cpan.org>
 
 =head1 ACKNOWLEDGEMENTS
 
-This module is inspired in L<Alien::Font::Uni> by Herbert Breunung
+This module is inspired by L<Alien::Font::Uni> from Herbert Breunung
 
 =head1 COPYRIGHT
 
