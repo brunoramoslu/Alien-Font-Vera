@@ -3,8 +3,9 @@ package Alien::Font::Vera;
 use strict;
 use warnings;
 
-our $VERSION = '0.008';
 # ABSTRACT: Perl access to Vera ttf font
+
+our $VERSION = '0.008';
 
 use File::ShareDir 'dist_dir';
 use File::Spec;
@@ -17,10 +18,6 @@ __END__
 
 =pod
 =cut
-
-=head1 NAME
-
-Alien::Font::Vera - access to Vera truetype file
 
 =head1 SYNOPSIS
 
