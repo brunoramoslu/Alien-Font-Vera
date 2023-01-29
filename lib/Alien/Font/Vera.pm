@@ -15,7 +15,6 @@ sub get_path { File::Spec->catfile( dist_dir('Alien-Font-Vera') , 'Vera.ttf') }
 1;
 
 __END__
-=pod
 =head1 NAME
 Alien::Font::Vera - access to Vera truetype file
 =head1 SYNOPSIS 
