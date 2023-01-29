@@ -5,7 +5,7 @@ use warnings;
 
 # ABSTRACT: Perl access to Vera ttf font
 
-our $VERSION = '0.008';
+our $VERSION = '0.009';
 
 use File::ShareDir 'dist_dir';
 use File::Spec;
