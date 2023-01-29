@@ -78,7 +78,7 @@ package.
 
 - Bruno Ramos (bramos@cpan.org)
 
-### Thanks
+### ACKNOWLEDGEMENTS
 
 This module is based on
 [Alien::Font::Uni](https://github.com/lichtkind/Alien-Font-Uni)
@@ -87,6 +87,8 @@ by [Herbert Breunung ](https://github.com/lichtkind)
 ### COPYRIGHT
 
 Copyright(c) 2023 by Bruno Ramos
+
+### LICENSE
 
 All rights reserved.  This program is free software; you can
 redistribute it and/or modify it under the same terms as Perl 
