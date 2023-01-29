@@ -38,13 +38,17 @@ Distros might redirect to pre-existing resources.
 Vera font is provided using the Bitstream license (share/License.txt) also present in this
 package.
 
+=head1 AUTHOR
+
+Bruno Ramos <bramos@cpan.org>
+
 =head1 ACKNOWLEDGEMENTS
 
 This module is inspired in L<Alien::Font::Uni> by Herbert Breunung
 
 =head1 COPYRIGHT
 
-Copyright(c) 2023 by Bruno Ramos <bramos@cpan.org>
+Copyright(c) 2023 by Bruno Ramos
 
 =head1 LICENSE
 
@@ -52,8 +56,3 @@ This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 The included Vera font is licensed under the Bitstream License (see share/License.txt)
-
-=head1 AUTHOR
-
-Bruno Ramos <bramos@cpan.org>
-
