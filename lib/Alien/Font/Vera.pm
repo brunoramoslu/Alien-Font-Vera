@@ -25,7 +25,7 @@ Alien::Font::Vera - access to Vera truetype file
 
     use Alien::Font::Vera;
     
-    my $path = Alien::Font::Vera::get_path();
+    my $path = Alien::Font::Vera::path;
 
 =head1 DESCRIPTION
 
@@ -38,3 +38,22 @@ Distros might redirect to pre-existing resources.
 
 Vera font is provided using the Bitstream license also present in this
 package.
+
+=head1 COPYRIGHT
+
+Copyright(c) 2023 by Bruno Ramos <bramos@cpan.org>
+
+=head1 LICENSE
+
+All rights reserved.
+
+This program is free software; you can
+redistribute it and/or modify it under the same terms as Perl
+itself.
+
+The included Vera font is licensed under the Bitstream License (see share/License.txt)
+
+=head1 AUTHOR
+
+Bruno Ramos <bramos@cpan.org>
+
