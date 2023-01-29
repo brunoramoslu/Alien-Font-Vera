@@ -14,13 +14,9 @@ sub path { File::Spec->catfile( dist_dir('Alien-Font-Vera') , 'Vera.ttf') }
 
 __END__
 
-=pod
-
-=cut
-
 =head1 NAME
 
-Alien::Font::Vera - access to Vera truetype file
+Alien::Font::Vera - Access to Vera truetype file
 
 =head1 SYNOPSIS
 
@@ -41,6 +37,10 @@ Distros might redirect to pre-existing resources.
 
 Vera font is provided using the Bitstream license (share/License.txt) also present in this
 package.
+
+=head1 ACKNOWLEDGEMENTS
+
+This module is inspired in L<Alien::Font::Uni> by Herbert Breunung
 
 =head1 COPYRIGHT
 
