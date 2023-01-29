@@ -15,6 +15,7 @@ sub path { File::Spec->catfile( dist_dir('Alien-Font-Vera') , 'Vera.ttf') }
 __END__
 
 =pod
+
 =cut
 
 =head1 NAME
@@ -45,11 +46,8 @@ Copyright(c) 2023 by Bruno Ramos <bramos@cpan.org>
 
 =head1 LICENSE
 
-All rights reserved.
-
-This program is free software; you can
-redistribute it and/or modify it under the same terms as Perl
-itself.
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
 
 The included Vera font is licensed under the Bitstream License (see share/License.txt)
 
