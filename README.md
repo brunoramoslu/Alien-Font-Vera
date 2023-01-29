@@ -2,11 +2,7 @@
 
 Alien-Font-Vera - access to Vera truetype file
 
-### VERSION
-
-`0.11`
-
-### CPAN
+# CPAN
 
 This module can be found on [CPAN](https://metacpan.org/pod/Alien::Font::Vera)
 
@@ -14,7 +10,7 @@ You will see the landing page for the user documentation.
 
 There is also a download link on the left side under "Tools".
 
-### BUILDING
+# BUILDING
 
 The git repository contains much more than the software package itself.
 
@@ -48,7 +44,7 @@ Don't forget to:
 
     dzil clean
 
-### INSTALLING
+# INSTALLING
 
 Once you downloaded or created a build, you unzip it and do the usual:
 
@@ -59,36 +55,36 @@ Once you downloaded or created a build, you unzip it and do the usual:
 
 This should install to your site_perl directory.
 
-### PREREQUISITES
+# PREREQUISITES
 
     perl 5.10 
     File::ShareDir 1
     File::Spec 3        
 
-### [CHANGES](https://github.com/brunoramoslu/Alien-Font-Vera/blob/main/Changes)
+# [CHANGES](https://github.com/brunoramoslu/Alien-Font-Vera/blob/main/Changes)
 
-### [CONTRIBUTING](https://github.com/brunoramoslu/Alien-Font-Vera/blob/main/CONTRIBUTING)
+# [CONTRIBUTING](https://github.com/brunoramoslu/Alien-Font-Vera/blob/main/CONTRIBUTING)
 
-### FONT
+# FONT
 
 Vera font is provided using the [Bitstream License](share/License.txt) also present in this
 package.
 
-### AUTHOR
+# AUTHOR
 
 - Bruno Ramos (bramos@cpan.org)
 
-### ACKNOWLEDGEMENTS
+# ACKNOWLEDGEMENTS
 
 This module is based on
 [Alien::Font::Uni](https://github.com/lichtkind/Alien-Font-Uni)
 by [Herbert Breunung ](https://github.com/lichtkind)
 
-### COPYRIGHT
+# COPYRIGHT
 
 Copyright(c) 2023 by Bruno Ramos
 
-### LICENSE
+# LICENSE
 
 All rights reserved.  This program is free software; you can
 redistribute it and/or modify it under the same terms as Perl 
