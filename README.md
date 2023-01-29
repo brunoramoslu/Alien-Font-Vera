@@ -64,7 +64,7 @@
 
 [CHANGES](https://github.com/brunoramoslu/Alien-Font-Vera/blob/main/Changes)
 
-[CONTRIBUTING](https://github.com/brunoramoslu/Alien-Font-Uni/blob/main/CONTRIBUTING)
+[CONTRIBUTING](https://github.com/brunoramoslu/Alien-Font-Vera/blob/main/CONTRIBUTING)
 
 
 ### FONT
@@ -75,6 +75,11 @@
 ### AUTHOR
 
     - Bruno Ramos (bramos@cpan.org)
+
+### Thanks
+
+    This module is based on [Alien::Font::Uni](https://github.com/lichtkind/Alien-Font-Uni)
+    by [Herbert Breunung ](https://github.com/lichtkind)
 
 
 ### COPYRIGHT
