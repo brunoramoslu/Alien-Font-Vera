@@ -1,3 +1,4 @@
-# dzil build dir
+# dzil build
+/.build/
 /Alien-Font-Vera-*/
 /Alien-Font-Vera-*.tar.gz
