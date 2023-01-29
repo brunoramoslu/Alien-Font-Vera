@@ -4,7 +4,7 @@ Alien-Font-Vera - access to Vera truetype file
 
 ### VERSION
 
-`0.1`
+`0.11`
 
 ### CPAN
 
@@ -22,23 +22,23 @@ If you check out sources here, you have to build the package yourself.
 
 In order to do that you need perl and the module Dist::Zilla.
 
-`cpan install Dist::Zilla`
+    cpan install Dist::Zilla
 
 or 
 
-`cpanm Dist::Zilla`
+    cpanm Dist::Zilla
 
 Then you have to check which further the Dist::Zilla plugins you miss:
 
-`dzil authordeps`
+    dzil authordeps
 
 and pipe them into your preferred installer:
 
-`dzil authordeps | cpanm`
+    dzil authordeps | cpanm
 
 Than you can build a release yourself:
 
-`dzil build`
+    dzil build
 
 Which gives you basically the same tgz file as under the download link
 from CPAN (as describes under HOME), just with more up to date 
@@ -46,24 +46,24 @@ from CPAN (as describes under HOME), just with more up to date
 
 Don't forget to:
 
-`dzil clean`
+    dzil clean
 
 ### INSTALLING
 
 Once you downloaded or created a build, you unzip it and do the usual:
 
- perl Makefile.PL
- make
- make test
- make install
+    perl Makefile.PL
+    make
+    make test
+    make install
 
 This should install to your site_perl directory.
 
 ### PREREQUISITES
 
- perl 5.10 
- File::ShareDir 1
- File::Spec 3        
+    perl 5.10 
+    File::ShareDir 1
+    File::Spec 3        
 
 ### [CHANGES](https://github.com/brunoramoslu/Alien-Font-Vera/blob/main/Changes)
 
