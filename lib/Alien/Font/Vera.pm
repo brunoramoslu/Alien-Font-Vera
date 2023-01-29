@@ -10,7 +10,7 @@ use warnings;
 use File::ShareDir 'dist_dir';
 use File::Spec;
 
-sub get_path { File::Spec->catfile( dist_dir('Alien-Font-Vera') , 'Vera.ttf') }
+sub path { File::Spec->catfile( dist_dir('Alien-Font-Vera') , 'Vera.ttf') }
 
 1;
 
