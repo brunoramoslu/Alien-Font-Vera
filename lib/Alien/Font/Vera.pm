@@ -28,5 +28,5 @@ to have access to an ttf font file.
 Thus only the .ttf file is provided since this is what L<Imager> can read.
 Distros might redirect to pre-existing resources.
 =head1 FONT
-Vera font is provived using the Bitstream license also present in this
+Vera font is provided using the Bitstream license also present in this
 package.
