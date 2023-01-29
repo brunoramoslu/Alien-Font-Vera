@@ -2,3 +2,6 @@
 /.build/
 /Alien-Font-Vera-*/
 /Alien-Font-Vera-*.tar.gz
+
+# carton
+/local/
