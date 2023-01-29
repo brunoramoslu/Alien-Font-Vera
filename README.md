@@ -1,4 +1,4 @@
-### NAME
+# NAME
 
 Alien-Font-Vera - access to Vera truetype file
 
