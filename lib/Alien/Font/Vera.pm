@@ -3,7 +3,7 @@ package Alien::Font::Vera;
 use strict;
 use warnings;
 
-our $VERSION = '0.006';
+our $VERSION = '0.007';
 # ABSTRACT: Perl access to Vera ttf font
 
 use File::ShareDir 'dist_dir';
