@@ -31,7 +31,7 @@ Alien::Font::Vera - access to Vera truetype file
 =head1 DESCRIPTION
 
 This module was created as an optional dependency of L<Project2::Gantt>
-to have access to an ttf font file.
+to have access to a ttf font file.
 
 Thus only the .ttf file is provided since this is what L<Imager> can read.
 
@@ -39,7 +39,7 @@ Distros might redirect to pre-existing resources.
 
 =head1 FONT
 
-Vera font is provided using the Bitstream license also present in this
+Vera font is provided using the Bitstream license (share/License.txt) also present in this
 package.
 
 =head1 COPYRIGHT
