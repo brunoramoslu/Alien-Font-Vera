@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.014     2024-02-04 19:28:35 CET
     - Small update to documentation (Thanks to Håkon Hægland and the perl pull request club).
 
 0.013   2023-01-29 Bruno Ramos
