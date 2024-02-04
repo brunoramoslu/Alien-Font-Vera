@@ -35,7 +35,7 @@ Distros might redirect to pre-existing resources.
 
 =head1 FONT
 
-Vera font is provided using the Bitstream license (share/License.txt) also present in this
+L<Vera font|https://en.wikipedia.org/wiki/Bitstream_Vera> is provided using the Bitstream license (share/License.txt) also present in this
 package.
 
 =head1 AUTHOR
