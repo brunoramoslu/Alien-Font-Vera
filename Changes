@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    - Add test for path (thanks to E. Choroba)
 
 0.015     2024-12-27 18:03:48 CET (TRIAL RELEASE)
     - Add dependencies from cpanfile to fix missing dependencies
