@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.016     2024-12-27 18:15:03 CET
     - Add test for path (thanks to E. Choroba)
 
 0.015     2024-12-27 18:03:48 CET (TRIAL RELEASE)
