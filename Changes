@@ -2,6 +2,9 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+0.015     2024-12-27 18:03:48 CET (TRIAL RELEASE)
+    - Add dependencies from cpanfile to fix missing dependencies
+
 0.014     2024-02-04 19:28:35 CET
     - Small update to documentation (Thanks to Håkon Hægland and the perl pull request club).
 
